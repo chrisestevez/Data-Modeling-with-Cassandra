@@ -12,4 +12,19 @@ I apply data modeling with Apache Cassandra, a **NoSQL** database, and complete 
 
 ## Files
 
+*images* - Folder containing project images.
+
+*Project_1B_ Project_Template.ipynb* - File containing project code.
+
+*data.zip* - Folder containing zip data.
+
+*requirements.txt* - Packages required for project.
+
 ## Project Execution
+
+* Install Apache Cassandra(project used 3.11.9)
+* Install python 3.8.3
+* Install required packages with:
+    * pip install -r requirements.txt
+* Unzip **data.zip**
+* Execute **Project_1B_ Project_Template.ipynb**
